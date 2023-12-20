@@ -1,4 +1,4 @@
-	Casos	Controles
+Classificação	Casos	Controles
 Fumantes	60	20
 Não fumantes	40	80
 Total	100	100
